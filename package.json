@@ -1,0 +1,13 @@
+{
+  "name": "backbone-project",
+  "version": "0.0.0",
+  "author": "Lochlan McIntosh <lochlan.mcintosh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lochlan/backbone-project"
+  },
+  "dependencies": {
+    "jshint": "2.x.x",
+    "requirejs": "2.x.x"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "predef": [
+        "define",
+        "require"
+    ],
+    "quotmark": true,
+    "strict": true,
+    "undef": true,
+    "unused": true
+}
